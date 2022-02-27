@@ -1,0 +1,3456 @@
+fileFormatVersion: 2
+guid: 76e4ab3fa9af73c4b8779010b2036ae5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7612109332357462760
+    second: cecily_spritesheet_0
+  - first:
+      213: 2778389484357054771
+    second: cecily_spritesheet_1
+  - first:
+      213: 5323667344977945157
+    second: cecily_spritesheet_2
+  - first:
+      213: -6081305288006985313
+    second: cecily_spritesheet_3
+  - first:
+      213: 3517081796889718880
+    second: cecily_spritesheet_4
+  - first:
+      213: -3244249480677431403
+    second: cecily_spritesheet_5
+  - first:
+      213: 5665492514173284677
+    second: cecily_spritesheet_6
+  - first:
+      213: 6871250196843158969
+    second: cecily_spritesheet_7
+  - first:
+      213: -7685448486959298750
+    second: cecily_spritesheet_8
+  - first:
+      213: -5878843572927144268
+    second: cecily_spritesheet_9
+  - first:
+      213: 6154764973309487997
+    second: cecily_spritesheet_10
+  - first:
+      213: 8892103528974484367
+    second: cecily_spritesheet_11
+  - first:
+      213: -4258340844616353333
+    second: cecily_spritesheet_12
+  - first:
+      213: 8771050880964975749
+    second: cecily_spritesheet_13
+  - first:
+      213: -1052808679736373527
+    second: cecily_spritesheet_14
+  - first:
+      213: -1473671855887271228
+    second: cecily_spritesheet_15
+  - first:
+      213: 3313995103446566866
+    second: cecily_spritesheet_16
+  - first:
+      213: -5438414206814070799
+    second: cecily_spritesheet_17
+  - first:
+      213: -2048785114549884250
+    second: cecily_spritesheet_18
+  - first:
+      213: -7109486486022648777
+    second: cecily_spritesheet_19
+  - first:
+      213: 41189512231519252
+    second: cecily_spritesheet_20
+  - first:
+      213: 2934536243215350706
+    second: cecily_spritesheet_21
+  - first:
+      213: 1363525842019042755
+    second: cecily_spritesheet_22
+  - first:
+      213: 3817022760361940302
+    second: cecily_spritesheet_23
+  - first:
+      213: -5384175307360322386
+    second: cecily_spritesheet_24
+  - first:
+      213: -4401722343988737412
+    second: cecily_spritesheet_25
+  - first:
+      213: -5893459991510425191
+    second: cecily_spritesheet_26
+  - first:
+      213: -5023798582793976989
+    second: cecily_spritesheet_27
+  - first:
+      213: 1353231550000250600
+    second: cecily_spritesheet_28
+  - first:
+      213: 3762873187491648376
+    second: cecily_spritesheet_29
+  - first:
+      213: -7112418887042854292
+    second: cecily_spritesheet_30
+  - first:
+      213: -2517490365779702623
+    second: cecily_spritesheet_31
+  - first:
+      213: -5410484244543648132
+    second: cecily_spritesheet_32
+  - first:
+      213: -2106154306699413079
+    second: cecily_spritesheet_33
+  - first:
+      213: 1021442931495992763
+    second: cecily_spritesheet_34
+  - first:
+      213: -7066538242717884011
+    second: cecily_spritesheet_35
+  - first:
+      213: -1622845772801127464
+    second: cecily_spritesheet_36
+  - first:
+      213: -4228525183842111693
+    second: cecily_spritesheet_37
+  - first:
+      213: 7784873030916866688
+    second: cecily_spritesheet_38
+  - first:
+      213: 8248191832310618378
+    second: cecily_spritesheet_39
+  - first:
+      213: 4818312149026983728
+    second: cecily_spritesheet_40
+  - first:
+      213: 1897029657494420628
+    second: cecily_spritesheet_41
+  - first:
+      213: 9076416261231755178
+    second: cecily_spritesheet_42
+  - first:
+      213: -4342068166784788258
+    second: cecily_spritesheet_43
+  - first:
+      213: 6969592453995480109
+    second: cecily_spritesheet_44
+  - first:
+      213: 1886594494517764230
+    second: cecily_spritesheet_45
+  - first:
+      213: -7491840107880611476
+    second: cecily_spritesheet_46
+  - first:
+      213: -6576359764479552672
+    second: cecily_spritesheet_47
+  - first:
+      213: -8899212370052513419
+    second: cecily_spritesheet_48
+  - first:
+      213: -5043352556457462437
+    second: cecily_spritesheet_49
+  - first:
+      213: -733614090411914846
+    second: cecily_spritesheet_50
+  - first:
+      213: 8952179826257841634
+    second: cecily_spritesheet_51
+  - first:
+      213: -289525854214277282
+    second: cecily_spritesheet_52
+  - first:
+      213: -480272716759569613
+    second: cecily_spritesheet_53
+  - first:
+      213: -1405237975975653864
+    second: cecily_spritesheet_54
+  - first:
+      213: -3400650208371566654
+    second: cecily_spritesheet_55
+  - first:
+      213: 6512453670473667814
+    second: cecily_spritesheet_56
+  - first:
+      213: 2387152148044621281
+    second: cecily_spritesheet_57
+  - first:
+      213: -1665645859057792290
+    second: cecily_spritesheet_58
+  - first:
+      213: -2237547917854305401
+    second: cecily_spritesheet_59
+  - first:
+      213: -7540881285902075333
+    second: cecily_spritesheet_60
+  - first:
+      213: 1779848730402233595
+    second: cecily_spritesheet_61
+  - first:
+      213: 2509203939458015030
+    second: cecily_spritesheet_62
+  - first:
+      213: -1260780617990541967
+    second: cecily_spritesheet_63
+  - first:
+      213: 2046691184398762360
+    second: cecily_spritesheet_64
+  - first:
+      213: 972115195846541736
+    second: cecily_spritesheet_65
+  - first:
+      213: 8709462018946665397
+    second: cecily_spritesheet_66
+  - first:
+      213: -3500046436254326655
+    second: cecily_spritesheet_67
+  - first:
+      213: 3677074550697917305
+    second: cecily_spritesheet_68
+  - first:
+      213: 3803227928201533418
+    second: cecily_spritesheet_69
+  - first:
+      213: -8453569379826706176
+    second: cecily_spritesheet_70
+  - first:
+      213: 4324063914799869399
+    second: cecily_spritesheet_71
+  - first:
+      213: 5143844130956935291
+    second: cecily_spritesheet_72
+  - first:
+      213: -23849374356053280
+    second: cecily_spritesheet_73
+  - first:
+      213: 4147852140086951434
+    second: cecily_spritesheet_74
+  - first:
+      213: -6634600271087091191
+    second: cecily_spritesheet_75
+  - first:
+      213: 6980775847758917189
+    second: cecily_spritesheet_76
+  - first:
+      213: 6689483063883481969
+    second: cecily_spritesheet_77
+  - first:
+      213: 7404416547624964374
+    second: cecily_spritesheet_78
+  - first:
+      213: -1225649825360889424
+    second: cecily_spritesheet_79
+  - first:
+      213: -6064485137976726865
+    second: cecily_spritesheet_80
+  - first:
+      213: 8828564892799837613
+    second: cecily_spritesheet_81
+  - first:
+      213: -2688620640901168165
+    second: cecily_spritesheet_82
+  - first:
+      213: -4958890859566327402
+    second: cecily_spritesheet_83
+  - first:
+      213: -7732516647939882441
+    second: cecily_spritesheet_84
+  - first:
+      213: -1203945392636592534
+    second: cecily_spritesheet_85
+  - first:
+      213: -2854750945301150349
+    second: cecily_spritesheet_86
+  - first:
+      213: 2106519522461602430
+    second: cecily_spritesheet_87
+  - first:
+      213: 1627121454209605354
+    second: cecily_spritesheet_88
+  - first:
+      213: -7095696708360004542
+    second: cecily_spritesheet_89
+  - first:
+      213: 158055040795480047
+    second: cecily_spritesheet_90
+  - first:
+      213: 8567332405944068114
+    second: cecily_spritesheet_91
+  - first:
+      213: 3925274053871310487
+    second: cecily_spritesheet_92
+  - first:
+      213: 4530982780992432410
+    second: cecily_spritesheet_93
+  - first:
+      213: -3609727302906883284
+    second: cecily_spritesheet_94
+  - first:
+      213: 3089818489890006202
+    second: cecily_spritesheet_95
+  - first:
+      213: -8058263075604330518
+    second: cecily_spritesheet_96
+  - first:
+      213: -4250449074511261633
+    second: cecily_spritesheet_97
+  - first:
+      213: 3092824251995594594
+    second: cecily_spritesheet_98
+  - first:
+      213: 1798980786814151581
+    second: cecily_spritesheet_99
+  - first:
+      213: -8766115656140744692
+    second: cecily_spritesheet_100
+  - first:
+      213: -4864815295002909546
+    second: cecily_spritesheet_101
+  - first:
+      213: -5151451470750909289
+    second: cecily_spritesheet_102
+  - first:
+      213: 6459746091210822552
+    second: cecily_spritesheet_103
+  - first:
+      213: 2390235584372847559
+    second: cecily_spritesheet_104
+  - first:
+      213: 3435329811129665165
+    second: cecily_spritesheet_105
+  - first:
+      213: -1925572179649832754
+    second: cecily_spritesheet_106
+  - first:
+      213: -7155181757781331154
+    second: cecily_spritesheet_107
+  - first:
+      213: 7223307854165201484
+    second: cecily_spritesheet_108
+  - first:
+      213: 8808741254478529112
+    second: cecily_spritesheet_109
+  - first:
+      213: -2207056111625443994
+    second: cecily_spritesheet_110
+  - first:
+      213: 6543885267332790507
+    second: cecily_spritesheet_111
+  - first:
+      213: -8463979035557763538
+    second: cecily_spritesheet_112
+  - first:
+      213: -8103088614452978912
+    second: cecily_spritesheet_113
+  - first:
+      213: -249113720992690315
+    second: cecily_spritesheet_114
+  - first:
+      213: 2166245698922625107
+    second: cecily_spritesheet_115
+  - first:
+      213: 3619521755782734841
+    second: cecily_spritesheet_116
+  - first:
+      213: -8665617370569229014
+    second: cecily_spritesheet_117
+  - first:
+      213: -6887900616486269527
+    second: cecily_spritesheet_118
+  - first:
+      213: -4566565073583622055
+    second: cecily_spritesheet_119
+  - first:
+      213: -1575748148133768415
+    second: cecily_spritesheet_120
+  - first:
+      213: 3748353133599731566
+    second: cecily_spritesheet_121
+  - first:
+      213: -4833395916374280516
+    second: cecily_spritesheet_122
+  - first:
+      213: -1748628252944093017
+    second: cecily_spritesheet_123
+  - first:
+      213: 6241237348736109220
+    second: cecily_spritesheet_124
+  - first:
+      213: 4177234527764341274
+    second: cecily_spritesheet_125
+  - first:
+      213: 2817578913314151189
+    second: cecily_spritesheet_126
+  - first:
+      213: -1701353222724654998
+    second: cecily_spritesheet_127
+  - first:
+      213: -4078990949084015705
+    second: cecily_spritesheet_128
+  - first:
+      213: 8904215265810213931
+    second: cecily_spritesheet_129
+  - first:
+      213: 2274065047551247638
+    second: cecily_spritesheet_130
+  - first:
+      213: -7657540417432134811
+    second: cecily_spritesheet_131
+  - first:
+      213: -8149767754924570635
+    second: cecily_spritesheet_132
+  - first:
+      213: -4188948355601538874
+    second: cecily_spritesheet_133
+  - first:
+      213: -7254678566856846281
+    second: cecily_spritesheet_134
+  - first:
+      213: 7100705544723747378
+    second: cecily_spritesheet_135
+  - first:
+      213: -3336503323876362556
+    second: cecily_spritesheet_136
+  - first:
+      213: 5611057634464339748
+    second: cecily_spritesheet_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cecily_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3a9a6b15a3a960800000000000000
+      internalID: 7612109332357462760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33178c6f382de8620800000000000000
+      internalID: 2778389484357054771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 220
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e1c78e3771e940800000000000000
+      internalID: 5323667344977945157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 220
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9993a98f0dda9ba0800000000000000
+      internalID: -6081305288006985313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ba9d824f2fc030800000000000000
+      internalID: 3517081796889718880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e97d394c1af2d0800000000000000
+      internalID: -3244249480677431403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fee0bc6fdf9e40800000000000000
+      internalID: 5665492514173284677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5ba906a59b5f50800000000000000
+      internalID: 6871250196843158969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474a33025dc75590800000000000000
+      internalID: -7685448486959298750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed699fae62a6ea0800000000000000
+      internalID: -5878843572927144268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7be026422e1a6550800000000000000
+      internalID: 6154764973309487997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8385861c09176b70800000000000000
+      internalID: 8892103528974484367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 220
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9fa10409557e4c0800000000000000
+      internalID: -4258340844616353333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 222
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c5bc22e4809b970800000000000000
+      internalID: 8771050880964975749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 224
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee8dd3751ca361f0800000000000000
+      internalID: -1052808679736373527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 224
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca395241477c8be0800000000000000
+      internalID: -1473671855887271228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 225
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d701500dfcadfd20800000000000000
+      internalID: 3313995103446566866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d865c71fd684b0800000000000000
+      internalID: -5438414206814070799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 224
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa65221bc04193e0800000000000000
+      internalID: -2048785114549884250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 222
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c0e2965b7065d90800000000000000
+      internalID: -7109486486022648777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 220
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4140805a4a5529000800000000000000
+      internalID: 41189512231519252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 222
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3c555a2199b820800000000000000
+      internalID: 2934536243215350706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c54c9f67873ce210800000000000000
+      internalID: 1363525842019042755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 188
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4554f22af9c8f430800000000000000
+      internalID: 3817022760361940302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 189
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacbb54a5119745b0800000000000000
+      internalID: -5384175307360322386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 189
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ac6a679d0f9e2c0800000000000000
+      internalID: -4401722343988737412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 188
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916b04dc59363ea0800000000000000
+      internalID: -5893459991510425191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 186
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36344716ec1e74ab0800000000000000
+      internalID: -5023798582793976989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 185
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eebd9ccce4a7c210800000000000000
+      internalID: 1353231550000250600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 186
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873184b3a39683430800000000000000
+      internalID: 3762873187491648376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 186
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62180894bc9b4d90800000000000000
+      internalID: -7112418887042854292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 185
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac8b3eb9d3101dd0800000000000000
+      internalID: -2517490365779702623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 185
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec02dde391ae4b0800000000000000
+      internalID: -5410484244543648132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 186
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b50321df65c2e0800000000000000
+      internalID: -2106154306699413079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 186
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf6223fe4ec2e00800000000000000
+      internalID: 1021442931495992763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 185
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591661b88ec9eed90800000000000000
+      internalID: -7066538242717884011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 184
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc1fa2e5e7a79e0800000000000000
+      internalID: -1622845772801127464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 185
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f2c4dbfb24155c0800000000000000
+      internalID: -4228525183842111693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 186
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082815d86cc690c60800000000000000
+      internalID: 7784873030916866688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 186
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09172c45c6777270800000000000000
+      internalID: 8248191832310618378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 186
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc3bbfe551ed240800000000000000
+      internalID: 4818312149026983728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 186
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf55f2c6a935a10800000000000000
+      internalID: 1897029657494420628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 185
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf3c4c2088e5fd70800000000000000
+      internalID: 9076416261231755178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 184
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8d240f100edb3c0800000000000000
+      internalID: -4342068166784788258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c4a11967f8b060800000000000000
+      internalID: 6969592453995480109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 150
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68060f872b78e2a10800000000000000
+      internalID: 1886594494517764230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 150
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6180c78d13a70890800000000000000
+      internalID: -7491840107880611476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 150
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063560323a31cb4a0800000000000000
+      internalID: -6576359764479552672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 150
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571024edf75af7480800000000000000
+      internalID: -8899212370052513419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b557b4b1299620ab0800000000000000
+      internalID: -5043352556457462437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 148
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9c6c22fdda1d5f0800000000000000
+      internalID: -733614090411914846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 148
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed448d0f188c3c70800000000000000
+      internalID: 8952179826257841634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 150
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57344205c56bfbf0800000000000000
+      internalID: -289525854214277282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 150
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33beb3a328ab559f0800000000000000
+      internalID: -480272716759569613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 150
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e051191879f7ce0800000000000000
+      internalID: -1405237975975653864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 150
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c797a427a67ec0d0800000000000000
+      internalID: -3400650208371566654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 150
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e495ccdb12e06a50800000000000000
+      internalID: 6512453670473667814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 150
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a2012b3ed02120800000000000000
+      internalID: 2387152148044621281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda82498aef62e8e0800000000000000
+      internalID: -1665645859057792290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78311641602a2f0e0800000000000000
+      internalID: -2237547917854305401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7a6c7c68695790800000000000000
+      internalID: -7540881285902075333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1e818dfa43b810800000000000000
+      internalID: 1779848730402233595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd76840bb72d220800000000000000
+      internalID: 2509203939458015030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 149
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de9f435bec08ee0800000000000000
+      internalID: -1260780617990541967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 148
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8710303d9ce476c10800000000000000
+      internalID: 2046691184398762360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 148
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a14131ce95ad7d00800000000000000
+      internalID: 972115195846541736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8210cf893ed870800000000000000
+      internalID: 8709462018946665397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18060bd6f465d6fc0800000000000000
+      internalID: -3500046436254326655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b7af662d7970330800000000000000
+      internalID: 3677074550697917305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 112
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae71c4c76a7c7c430800000000000000
+      internalID: 3803227928201533418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0095f4f1073eeaa80800000000000000
+      internalID: -8453569379826706176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd2bbb7839220c30800000000000000
+      internalID: 4324063914799869399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708aaddbfa926740800000000000000
+      internalID: 5143844130956935291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26461de154baff0800000000000000
+      internalID: -23849374356053280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 112
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ef9be8b81209930800000000000000
+      internalID: 4147852140086951434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c42f743a2de3a0800000000000000
+      internalID: -6634600271087091191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eeb46d5a2b0e060800000000000000
+      internalID: 6980775847758917189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 113
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17344c97761d5dc50800000000000000
+      internalID: 6689483063883481969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 113
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d53aae95c1c660800000000000000
+      internalID: 7404416547624964374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 113
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b938544afd9dfee0800000000000000
+      internalID: -1225649825360889424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 112
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faae245e5ee96dba0800000000000000
+      internalID: -6064485137976726865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 112
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a1d78efc558a70800000000000000
+      internalID: 8828564892799837613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 112
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38d43a5c910bad0800000000000000
+      internalID: -2688620640901168165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 112
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991e9b590b7e2bb0800000000000000
+      internalID: -4958890859566327402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732cfbbc31590b490800000000000000
+      internalID: -7732516647939882441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 112
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e7dee4b0aba4fe0800000000000000
+      internalID: -1203945392636592534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 127
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3754d1fe323e168d0800000000000000
+      internalID: -2854750945301150349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 127
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72dfb8485cdb3d10800000000000000
+      internalID: 2106519522461602430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee949c7752b49610800000000000000
+      internalID: 1627121454209605354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 76
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1b483075078d90800000000000000
+      internalID: -7095696708360004542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 78
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0391e836813200800000000000000
+      internalID: 158055040795480047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182df87e6745e670800000000000000
+      internalID: 8567332405944068114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 75
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969e0b74ff597630800000000000000
+      internalID: 3925274053871310487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19277845d841ee30800000000000000
+      internalID: 4530982780992432410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 76
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d436a42ca7edc0800000000000000
+      internalID: -3609727302906883284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 75
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4e356cb8d31ea20800000000000000
+      internalID: 3089818489890006202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae705ff5d6c4b2090800000000000000
+      internalID: -8058263075604330518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 77
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f305ed9261f5305c0800000000000000
+      internalID: -4250449074511261633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f19ec454bebea20800000000000000
+      internalID: 3092824251995594594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 78
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b6fc38e7347f810800000000000000
+      internalID: 1798980786814151581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 77
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089dbf6140885680800000000000000
+      internalID: -8766115656140744692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e67b9344bc7cb0800000000000000
+      internalID: -4864815295002909546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 77
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c7a305e2e5288b0800000000000000
+      internalID: -5151451470750909289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 76
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d6d148d0a5a950800000000000000
+      internalID: 6459746091210822552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 75
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ba089992db2120800000000000000
+      internalID: 2390235584372847559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 78
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8681b6134ebcaf20800000000000000
+      internalID: 3435329811129665165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 77
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8d8920e4ef645e0800000000000000
+      internalID: -1925572179649832754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 76
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b610e910b3bc90800000000000000
+      internalID: -7155181757781331154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 77
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425ecef8385e3460800000000000000
+      internalID: 7223307854165201484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 76
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852858f008fee3a70800000000000000
+      internalID: 8808741254478529112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 75
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e533f826fe51e0800000000000000
+      internalID: -2207056111625443994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 78
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8784acafc80da50800000000000000
+      internalID: 6543885267332790507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e93749e7e98a80800000000000000
+      internalID: -8463979035557763538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b940056db0c8f80800000000000000
+      internalID: -8103088614452978912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0e8ff368fa8cf0800000000000000
+      internalID: -249113720992690315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35830846cfc001e10800000000000000
+      internalID: 2166245698922625107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36a3e1cdf1b3230800000000000000
+      internalID: 3619521755782734841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 39
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d34c3f9ea8db780800000000000000
+      internalID: -8665617370569229014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad442a02e24960a0800000000000000
+      internalID: -6887900616486269527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b751a24d40a0c0800000000000000
+      internalID: -4566565073583622055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 39
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d10f6861d12ae0800000000000000
+      internalID: -1575748148133768415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f2fecb053d40430800000000000000
+      internalID: 3748353133599731566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6ffa1c5045cecb0800000000000000
+      internalID: -4833395916374280516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 39
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03e0b5edf9bb7e0800000000000000
+      internalID: -1748628252944093017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa015a1d445d9650800000000000000
+      internalID: 6241237348736109220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 39
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e3eacba488f930800000000000000
+      internalID: 4177234527764341274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b98bee71d0a1720800000000000000
+      internalID: 2817578913314151189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e70212449368e0800000000000000
+      internalID: -1701353222724654998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a350ddd7538467c0800000000000000
+      internalID: -4078990949084015705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6a329b90229b70800000000000000
+      internalID: 8904215265810213931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6158c6bbc1a1f8f10800000000000000
+      internalID: 2274065047551247638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bd2cdcf83fab590800000000000000
+      internalID: -7657540417432134811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7c9cdf76536ee80800000000000000
+      internalID: -8149767754924570635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e9e12aadddd5c0800000000000000
+      internalID: -4188948355601538874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349bd6c744325b90800000000000000
+      internalID: -7254678566856846281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 40
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d7ef5216ca8260800000000000000
+      internalID: 7100705544723747378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 39
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6707c87eb52b1d0800000000000000
+      internalID: -3336503323876362556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cecily_spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4279d7c903b7edd40800000000000000
+      internalID: 5611057634464339748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
